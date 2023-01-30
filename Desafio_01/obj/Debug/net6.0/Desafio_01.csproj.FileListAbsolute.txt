@@ -1,0 +1,30 @@
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\refint\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C# estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\ref\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.exe
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.deps.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.runtimeconfig.json
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\bin\Debug\net6.0\Desafio_01.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.AssemblyReference.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfoInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.AssemblyInfo.cs
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.csproj.CoreCompileInputs.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\refint\Desafio_01.dll
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.pdb
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\Desafio_01.genruntimeconfig.cache
+C:\Users\rafag\OneDrive\Área de Trabalho\C_estudos\Qodeless\Desafio_01\Desafio_01\obj\Debug\net6.0\ref\Desafio_01.dll
